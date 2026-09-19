@@ -11,3 +11,4 @@ const student2 ={
 	age:20,
 	city:"Pune"
 };
+console.log (getKeys(student2))
